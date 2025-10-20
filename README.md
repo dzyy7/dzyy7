@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey 👋 I'm Dzaky Aulia?</h1>
+<h1 align="left">Hey 👋 I'm Dzaky Aulia</h1>
 
 ###
 
