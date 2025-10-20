@@ -14,5 +14,4 @@
   
   <br/>
   
-  <img height="169em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dzyy7&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats" alt="dzyy7"/>
 </div>
